@@ -58,7 +58,7 @@ body {
 .right-nav div {
   margin: 0px 20px;
 }
-.right-nav:hover {
+#map:hover {
   color: green;
   cursor: pointer;
 }
