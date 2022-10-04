@@ -3,9 +3,9 @@
   padding: 0px;
   font-family: "SoDo Sans SemiBold", Helvetica Neue, Helvetica, Arial,
     sans-serif;
+    box-sizing: border-box;
 }
-html,
-body {
+html {
   height: 100%;
   width: 100%;
 }
