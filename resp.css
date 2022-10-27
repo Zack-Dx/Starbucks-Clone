@@ -64,3 +64,9 @@
     text-align: center;
   }
 }
+
+@media (min-width: 770px) and (max-width: 1400px) {
+  .box2 span {
+    font-size: 33px;
+  }
+}
